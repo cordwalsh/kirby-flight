@@ -220,7 +220,7 @@ body {
 #flappyBird {
   z-index: 1000;
   position: relative;
-  left: 820px;
+  left: 900px;
   top: 235px;
   border-radius: 5px;
   box-shadow: 4px 8px 40px 20px red;
